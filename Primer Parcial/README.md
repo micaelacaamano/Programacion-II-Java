@@ -1,13 +1,13 @@
 # 📘 Primer Parcial – Programación II (Java)
 
-## 📌 Descripción
+## Descripción:
 Este proyecto corresponde al **primer parcial de la materia Programación II**, donde se aplican los conceptos iniciales de **Programación Orientada a Objetos (POO)** utilizando **Java**.
 
 El sistema desarrollado permite gestionar notas académicas, trabajando con **clases**, **atributos**, **constructores**, **arreglos** y **métodos**, sin utilizar carga de datos por teclado.
 
 ---
 
-## 🧱 Estructura del sistema
+## Estructura del sistema:
 
 ### 👨‍🎓 Clase Alumno
 **Atributos:**
@@ -29,7 +29,7 @@ El sistema desarrollado permite gestionar notas académicas, trabajando con **cl
 
 ---
 
-## ⚙️ Funcionalidades
+## Funcionalidades:
 
 - Carga de alumnos, materias y notas desde el método `main`.
 - Listado de todos los alumnos con el estado de cada materia (**APROBADA / REPROBADA**).
