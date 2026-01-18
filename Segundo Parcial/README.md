@@ -1,9 +1,4 @@
-# Segundo Parcial – Programación II (Java)
-
-## Descripción:
-Este proyecto corresponde al **segundo desempeño evaluativo de la materia Programación II**, donde se profundizan los conceptos de **Programación Orientada a Objetos**, **colecciones**, **manejo de archivos** y **manejo de excepciones** en **Java**.
-
----
+# Segundo Desempeño
 
 Desarrollar una aplicación de gestión de una biblioteca. 
 La aplicación debe permitir agregar, buscar y listar libros. 
@@ -50,4 +45,3 @@ Formato: titulo,autor,añoPublicacion,isbn
  - Clase Bibioteca > cargarLibrosDesdeCSV: 30p
  - Clase Bibioteca > guardarLibrosEnCSV: 30p
  - Compilacion general: 10p
-
